@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\gibdd_drivers\obj\Debug\gibdd_drivers.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\gibdd_drivers\obj\Debug\gibdd_drivers.Authorization.resources
+C:\Users\ADMIN\source\repos\gibdd_drivers\obj\Debug\gibdd_drivers.Drivers.resources
+C:\Users\ADMIN\source\repos\gibdd_drivers\obj\Debug\gibdd_drivers.License.resources
+C:\Users\ADMIN\source\repos\gibdd_drivers\obj\Debug\gibdd_drivers.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\gibdd_drivers\obj\Debug\gibdd_drivers.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\gibdd_drivers\bin\Debug\DB_Drivers.mdf
+C:\Users\ADMIN\source\repos\gibdd_drivers\bin\Debug\DB_Drivers_log.ldf
+C:\Users\ADMIN\source\repos\gibdd_drivers\bin\Debug\gibdd_drivers.exe.config
+C:\Users\ADMIN\source\repos\gibdd_drivers\bin\Debug\gibdd_drivers.exe
+C:\Users\ADMIN\source\repos\gibdd_drivers\bin\Debug\gibdd_drivers.pdb
+C:\Users\ADMIN\source\repos\gibdd_drivers\obj\Debug\gibdd_drivers.exe
+C:\Users\ADMIN\source\repos\gibdd_drivers\obj\Debug\gibdd_drivers.pdb
